@@ -1,3 +1,3 @@
 a django blog demo
 :blush:
-:blush :smile
+:blush :smile:
